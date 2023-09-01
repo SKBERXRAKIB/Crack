@@ -6,6 +6,6 @@ bit = platform.architecture()[0]
 if bit=='64bit':
     print('\033[1;32m[•] Congrats! Your Device Support This Tools \033[1;37m')
     os.system('xdg-open https://chat.whatsapp.com/DQeVBXQrAjuEVqzSWw6hrq')
-    import V4
+    import paid
 else:
     exit('\033[1;31m[×] Sorry Device Not Support')
