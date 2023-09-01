@@ -22,8 +22,6 @@ cd Crack
 
 python Crack.py
 
-KEY :SKBER-CYBER
-
-2day free 
+Note:(This tool is a paid so frist approval and injoy paid too)
 
 # Crack
